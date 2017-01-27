@@ -1,14 +1,14 @@
 const Node = require('./node');
 
 class LinkedList {
-    constructor() {
+    constructor({
          const list = new LinkedList();
 
         it('assign 0 to this.length', () => {
             expect(list.length).to.equal(0);
         })
     });
-
+ 
 
     append(data) {}
 
