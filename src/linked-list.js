@@ -1,7 +1,7 @@
 const Node = require('./node');
 
 class LinkedList {
-    constructor()
+    constructor() {}
  
 
     append(data) {}
